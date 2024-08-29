@@ -5,7 +5,13 @@
 
 ### Autenticação VS Autorização
 
-...
+#### Autenticação
+
+- Identificar um usuário ou dispositivo
+
+#### Autorização
+
+- Permitir ou negar ações de usuários ou dispositivos
 
 ### Autenticação com Token (JWT)
 
