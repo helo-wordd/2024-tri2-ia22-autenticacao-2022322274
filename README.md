@@ -8,7 +8,7 @@
 - Autenticação:
 - Identificar um usuário ou dispositivo
 
-<p></p>
+<p></p><p></p>
 
 - Autorização:
 - Permitir ou negar ações de usuários ou dispositivos
