@@ -98,3 +98,7 @@
   form button[data-action=create] {
     background-color: #28a745;
   }
+
+  form button[data-action=login] {
+    background-color: #ec51df;
+  }
